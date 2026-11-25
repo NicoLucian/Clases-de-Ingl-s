@@ -1,0 +1,6 @@
+{
+  "name": "Fluentia — Profesor de Inglés por Voz",
+  "description": "Profesor particular de inglés especializado en conversación por voz en tiempo real, con corrección breve, ayuda en español y lista de vocabulario al final de cada sesión.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
